@@ -71,7 +71,7 @@ body {
 
     box-shadow:
         0 30px 80px rgba(0, 0, 0, 0.70),
-        0 0 45px rgba(80, 105, 255, 0.08);
+        0 0 45px rgba(210, 214, 231, 0.08);
 
     backdrop-filter: blur(15px);
 }
@@ -88,7 +88,7 @@ body {
 
     letter-spacing: 5px;
 
-    color: #040f52;
+    color: #8487a8;
 
     margin-bottom: 18px;
 }
@@ -110,7 +110,7 @@ body {
     margin-bottom: 10px;
 
     text-shadow:
-        0 0 20px rgba(255, 255, 255, 0.08);
+        0 0 20px rgba(240, 244, 247, 0.08);
 }
 
 
@@ -190,7 +190,7 @@ body {
 /* INPUT FOCUS */
 
 .input-group input:focus {
-    border-color: #657aff;
+    border-color: #e2e3ee;
 
     box-shadow:
         0 0 0 3px rgba(101, 122, 255, 0.12),
